@@ -1,1 +1,3 @@
 # UNC-Square-Project
+
+I had the privilege of attending Jack Snoeyink's lecture while visiting UNC. His discussion revolved around the math related to how recursion is best handled within algorithms, one of the examples involved properly filling a grid with 3 tiles in L shapes while leaving a predetermined coordinate unfilled. While it was not assigned to be replicated in code, I was intrigued and saught to create a working proof of concept. I thank Professor Snoeyink for permitting me to audit his class, I learned a lot about proper implementation of algorithms and how I can utilize them in future applications to increase efficiency
